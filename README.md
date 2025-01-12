@@ -51,7 +51,7 @@ For insights into the Camera2 API and widget integration, refer to Android’s o
 - [App Widgets](https://developer.android.com/guide/topics/appwidgets/overview)
 
 For a detailed guide, check out the Medium article:
-- **Medium Article:** [How to Build a Flashlight App with Advanced Features](https://medium.com/@yourusername/flashlight-app-advanced-features)
+- **Medium Article:** [How to Build a Flashlight App with Advanced Features](https://medium.com/@abhisheksuman413/mastering-android-flashlight-app-with-kotlin-and-xml-a0551adbf9b5)
 
 ## Getting Started
 
