@@ -12,7 +12,12 @@ This Android app allows users to control their device's flashlight with added fe
 
 ## Screenshots
 
-**𝐂𝐨𝐦𝐢𝐧𝐠 𝐒𝐨𝐨𝐧**
+<p align="center">
+  <img src="https://github.com/abhisheksuman413/Flash-Light/blob/master/Image/IMG_20250114_204123.jpg" alt="Light Mode Screenshot 1" width="200" />
+  <img src="https://github.com/abhisheksuman413/Flash-Light/blob/master/Image/Screenshot_2025-01-14-20-39-37-60_20d3a0f9dd731a99fd7a054d88102d33.jpg" alt="Light Mode Screenshot 1" width="200" />
+  <img src="https://github.com/abhisheksuman413/Flash-Light/blob/master/Image/Screenshot_2025-01-14-20-39-51-88_20d3a0f9dd731a99fd7a054d88102d33.jpg" alt="Light Mode Screenshot 1" width="200" />
+ 
+</p>
 
 ## Technologies Used
 
